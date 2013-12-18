@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="Junos" ext="" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments"></Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">accept-remote-nexthop access-list access-point access-point-options access-point-queues access-profile ack-number action action-profile actions active-policy adaptive-shaper adaptive-shapers address address-assignment address-blacklist address-book address-mapping address-persistent address-pool address-pooling address-set address-shared address-whitelist admin-email admin-search administrator administrator-email advertise-external advertise-peer-as agent-address aging alarm-threshold alarm-without-drop alarms alert alg algorithm all-tcp allow-dns-reply allow-duplicates allow-email allow-icmp-without-flow allow-transients always-send annex anomaly anti-spam anti-virus apn appfw-profile appfw-rule appfw-rule-set application application-ddos application-firewall application-group application-identification application-protocol application-proxy application-screen application-services application-system-cache application-system-cache-timeout application-tracking application-traffic-control apply-groups apply-macro arbitration-inter-frame-space archive-sites arguments arp-resp assemble association-timeout attach attack-threshold attack-type attacks attributes-match audible auth-entry authentication authentication-algorithm authentication-key-chain authentication-method authentication-order authentication-source authorization auto-re-enrollment autoinstallation automatic background-queue bandwidth banner base-distinguished-name beacon-interval best-effort-queue bfd-liveness-detection bgp-orf-cisco-mode bind-interface block-command block-content-type block-extension block-message block-mime bridge bridge-domains bridge-options broadcast-multicast-rate-limit bundle c-timeout ca-identity ca-profile ca-profile-name cache cache-prune-chunk-size cache-size call-flood captive-portal capture-file categories category cbr rate cellular-options certificate certificate-verification chain challenge-password change-configuration channel checksum ciphers classifiers client-group client-ia-type client-identifier client-idle-timeout client-list client-list-name client-name-filter client-session-timeout client-type clients cluster co-location code code-points command commands commit commit-delay commit-interval commit-options community compression-device condition config-check configuration-file configuration-servers connection-flood connection-rate-threshold connections-limit console contact container content-decompression-max-memory-kb content-decompression-max-ratio content-filtering content-size content-size-limit context control-link-recovery control-ports corrupt-file count country cpu create-req credit crl cryptographic-self-test custom-attack custom-attack-group custom-attack-groups custom-attacks custom-block-message custom-ciphers custom-message custom-message-subject custom-objects custom-tag-string custom-url-category damping data-length data-rate datapath-debug days-to-keep-error-logs dead-peer-detection decompress-layer decompress-layer-limit decryption-failures default default-policy default-profile default-rule delete-req demand-circuit deny description destination destination-address destination-address-excluded destination-address-name destination-except destination-interface destination-ip destination-ip-based destination-nat destination-port destination-threshold destinations detect-shellcode detection-time detector df-bit dh-group dhcp dhcp-attributes dhcp-client dhcp-local-server dhcpv6 dhcpv6-client direct-access direction disable disable-dot11d disable-low-memory-handling display-host distinguished-name div dns dns-proxy domain-name domain-type dot1x dot1x-supplicant download-profile download-timeout drop dscp-rewrite dslite-softwire-initiator dtim-period duration dynamic dynamic-application dynamic-application-group dynamic-attack-group dynamic-attack-groups dynamic-dns dynamic-vpn early-ageout echo-req email-notify enable enable-all-qmodules enable-flow-tracing enable-heuristics enable-packet-pool enable-session-cache encapsulation encryption encryption-algorithm encryption-failures end-user-address-validation endpoint-registration-timeout engine-not-ready enrollment enterprise-oid equals establish-tunnels ethernet event-options event-rate event-script events exception exclude exclude-context-values execute-commands export expression external external-interface fabric-options facility fail fallback-block fallback-non-block fallback-options fallback-settings false-positives family family bridge family inet family inet6 feature-profile fifo-max-size file filename-extension files filter-duplicates filter-interfaces filters fin-invalidate-session fin-no-ack firewall-authentication firewall-authentication-service firewall-user first-update first-update-interval fixed-multicast-rate flag flexible-vlan-tagging flood flow flow-control flow-gate flow-monitoring flow-server flow-session force-ip-reassembly force-upgrade format forward forwarding-classes forwarding-options forwarding-process fragment fragmentation-threshold frame-relay-de framing from from-zone fru-poweron-sequence ftp functional-zone</Keywords>
+            <Keywords name="Keywords2"></Keywords>
+            <Keywords name="Keywords3"></Keywords>
+            <Keywords name="Keywords4"></Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
