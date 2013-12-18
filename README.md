@@ -1,6 +1,6 @@
 # npp-junos
 
-This repo is a custom language definition for JUNOS ([1]) to be used with Notepad++.
+This repo is a custom language definition for [1]JUNOS to be used with Notepad++.
 
 ## Installation
 
@@ -13,4 +13,4 @@ open up Notepad++, and go to `Language > Define your language`. Click on
 Feel free to drop me a line at scottdware@gmail.com if you have any questions
 or comments on anything!
 
-[1]: http://www.juniper.net/ "Juniper Networks"
+[1]: http://www.juniper.net/us/en/community/junos/ "JUNOS"
